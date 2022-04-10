@@ -156,7 +156,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "◈  SapphireDRAGON  ◈"
+    heading: ""
     subheading: "- TIL용 블로그📖 -"
     banner: "/assets/images/banners/home.png"
 
@@ -171,7 +171,7 @@ banner:
 #   image: null             # Image banner source
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
 #   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-   height: "250px"         # Banner default height
+   height: "200px"         # Banner default height
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
