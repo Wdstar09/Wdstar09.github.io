@@ -156,8 +156,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "◈ TIL용 블로그📖 ◈"
-    subheading: "- 개발공부 과정과 기술 블로그 위주"
+    heading: "- TIL용 블로그📖 -"
+    subheading: "     ▷ 개발공부 과정과 기술 블로그 위주"
     banner: "/assets/images/banners/home.png"
 
 # Banner default settings
