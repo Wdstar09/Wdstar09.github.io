@@ -63,7 +63,7 @@ yat:
 # header_transparent: true
 
 # If you want to change the content width, you can set to another value
-content_width: "1200px"
+content_width: "1280px"
 
 # Google analytics
 # google_analytics: [Tracking ID]
@@ -171,13 +171,13 @@ banner:
 #   image: null             # Image banner source
 #   opacity: 1.0            # Banner opacity (100% is 1.0)
 #   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-   height: "300px"         # Banner default height
+   height: "350px"         # Banner default height
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
-excerpt_size: 400
+excerpt_size: '400px'
 
 # Pagination setting
 # paginate: 5
