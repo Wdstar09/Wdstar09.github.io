@@ -177,7 +177,7 @@ banner:
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
-excerpt_size: "400px"
+#excerpt_size: "400px"
 
 # Pagination setting
 # paginate: 5
