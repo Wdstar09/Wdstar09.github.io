@@ -156,7 +156,7 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: ""
+    heading: "  "
     subheading: "- TIL용 블로그📖 -"
     banner: "/assets/images/banners/home.png"
 
