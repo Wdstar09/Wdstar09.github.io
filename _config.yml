@@ -177,7 +177,7 @@ height: "340px"         # Banner default height
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
-excerpt_size: 400
+excerpt_size: "400"
 
 # Pagination setting
 # paginate: 5
